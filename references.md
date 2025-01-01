@@ -109,4 +109,10 @@ Sending Text Messages Using Node.js and Twilio
 
 https://peeyushjss.medium.com/sending-text-messages-using-node-js-and-twilio-2fca6c8b30b2
 
+## fund raising
+
 https://acquire.com/
+
+appsumo
+
+https://www.producthunt.com/
