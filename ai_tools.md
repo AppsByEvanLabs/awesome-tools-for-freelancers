@@ -13,3 +13,5 @@ https://convertio.co/
 https://www.batch.tools/
 
 https://notebooklm.google.com/
+
+https://replicate.com/
