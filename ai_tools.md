@@ -36,3 +36,7 @@ https://replit.com/
 https://clipdrop.co/
 
 https://f5tts.org/
+
+https://www.heygen.com/
+
+https://flourish.studio/
