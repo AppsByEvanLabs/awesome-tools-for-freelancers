@@ -26,9 +26,12 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
 
 ## Audio TTS Tools
 
-| **Website** | **Short Introduction** | **Link/GitHub Repo** |
-|-------------|------------------------|-----------------------|
-| F5TTS     | F5tts provides text-to-speech services powered by AI, enabling users to convert written text into spoken words with natural-sounding voices for various applications such as accessibility and content creation. | [F5tts.org](https://f5tts.org/) |
+| **Website**           | **Short Introduction**                                                                                                                                       | **Link/GitHub Repo**                               |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+| F5TTS                 | F5tts provides text-to-speech services powered by AI, enabling users to convert written text into spoken words with natural-sounding voices for various applications such as accessibility and content creation. | [F5tts.org](https://f5tts.org/)                    |
+| fish-speech | SOTA Open Source TTS that offers high-quality text-to-speech capabilities, focusing on state-of-the-art performance in voice synthesis.                     | [fish-speech GitHub](https://github.com/fishaudio/fish-speech) |
+| suno-ai / bark        | A text-prompted generative audio model that allows users to create realistic audio outputs based on textual prompts, enhancing creative audio generation.      | [bark GitHub](https://github.com/suno-ai/bark)     |
+
 
 ## Music Generation Tools
 
