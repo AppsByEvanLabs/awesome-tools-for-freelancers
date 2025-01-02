@@ -15,3 +15,5 @@
 |------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
 | Android Basics in Kotlin                              | Official Android course covering the basics of Android development using Kotlin.                            | [developer.android.com/courses/android-basics-kotlin/course](https://developer.android.com/courses/android-basics-kotlin/course) |
 | Kotlin Documentation                                   | Official documentation providing an overview of Kotlin programming language features and syntax.              | [kotlinlang.org/docs/android-overview.html](https://kotlinlang.org/docs/android-overview.html) |
+| **Kotlin in Action**                                  | A deep dive into the Kotlin language by Dmitry Jemerov and Svetlana Isakova.                               | [Kotlin in Action, Second Edition](https://www.manning.com/books/kotlin-in-action-second-edition) |
+
