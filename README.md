@@ -26,11 +26,19 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
 
 ## Audio TTS Tools
 
+Here's an updated table of audio text-to-speech (TTS) tools, including the newly added repositories:
+
 | **Website**           | **Short Introduction**                                                                                                                                       | **Link/GitHub Repo**                               |
 |-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
 | F5TTS                 | F5tts provides text-to-speech services powered by AI, enabling users to convert written text into spoken words with natural-sounding voices for various applications such as accessibility and content creation. | [F5tts.org](https://f5tts.org/)                    |
-| fish-speech | SOTA Open Source TTS that offers high-quality text-to-speech capabilities, focusing on state-of-the-art performance in voice synthesis.                     | [fish-speech GitHub](https://github.com/fishaudio/fish-speech) |
+| fish-speech           | SOTA Open Source TTS that offers high-quality text-to-speech capabilities, focusing on state-of-the-art performance in voice synthesis.                     | [fish-speech GitHub](https://github.com/fishaudio/fish-speech) |
 | suno-ai / bark        | A text-prompted generative audio model that allows users to create realistic audio outputs based on textual prompts, enhancing creative audio generation.      | [bark GitHub](https://github.com/suno-ai/bark)     |
+| moshi   | A simple native web interface that uses ChatTTS to synthesize text into speech, supporting external API interfaces.                                          | [moshi GitHub](https://github.com/kyutai-labs/moshi) |
+| fast-voice-assistant | An insanely fast AI voice assistant with response times under 500ms.                                                                                   | [fast-voice-assistant GitHub](https://github.com/dsa/fast-voice-assistant) |
+| ChatTTS-ui | A straightforward local web interface that utilizes ChatTTS for text-to-speech synthesis and offers API support.                                        | [ChatTTS-ui GitHub](https://github.com/jianchang512/ChatTTS-ui) |
+| ChatTTS      | A generative speech model designed for daily dialogue applications.                                                                                       | [ChatTTS GitHub](https://github.com/2noise/ChatTTS) |
+| GPT-SoVITS | A model that can use just one minute of voice data to train a good TTS model, enabling few-shot voice cloning capabilities.                                 | [GPT-SoVITS GitHub](https://github.com/RVC-Boss/GPT-SoVITS) |
+
 
 
 ## Music Generation Tools
