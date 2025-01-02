@@ -20,7 +20,6 @@ Here are the categorized GitHub repositories organized into smaller tables based
 | **Repository**                                        | **Short Description**                                                                                       | **Link**                                                        |
 |------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
 | Cookbook                                             | A collection of recipes and guides for programming in various languages.                                    | [andkret/Cookbook](https://github.com/andkret/Cookbook)        |
-| Eloquent JavaScript                                   | An online book providing an introduction to JavaScript programming.                                          | [Eloquent JavaScript](https://eloquentjavascript.net/)          |
 | Pystatsml                                           | Resources and guides focused on statistics and machine learning in Python.                                  | [duchesnay/pystatsml](https://duchesnay.github.io/pystatsml/)  |
 
 
