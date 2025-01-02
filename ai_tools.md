@@ -21,3 +21,5 @@ https://bark.day.app/#/
 
 
 https://team.doubao.com/en/special/seed-music
+
+https://www.minimaxi.com/en
