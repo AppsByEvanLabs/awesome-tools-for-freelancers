@@ -63,6 +63,16 @@ Here is the new category "JavaScript" with the specified repositories organized 
 | You-Dont-Know-JS                                     | A book series that dives deep into JavaScript, exploring its intricacies and nuances.                      | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) |
 | javascript                                           | A comprehensive JavaScript style guide maintained by Airbnb.                                              | [airbnb/javascript](https://github.com/airbnb/javascript)      |
 
+Here is the new category "Web Scraping" with the specified repositories organized in a table format:
+
+## Web Scraping Resources
+
+| **Repository**                                        | **Short Description**                                                                                       | **Link**                                                        |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| appium                                               | Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol.     | [appium/appium](https://github.com/appium/appium)              |
+| selenium                                             | A browser automation framework and ecosystem for testing and scraping web applications.                      | [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)  |
+| scrapy                                               | A fast high-level web crawling and scraping framework for Python, used to extract structured data from websites. | [scrapy/scrapy](https://github.com/scrapy/scrapy)              |
+| EasySpider                                           | A visual no-code/code-free web crawler that allows users to design and execute web scraping tasks easily.   | [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) |
 
 
 These tables categorize the provided GitHub repositories into relevant groups based on their focus areas while providing a brief description and direct links to each repository.
