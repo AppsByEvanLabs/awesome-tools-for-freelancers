@@ -15,3 +15,6 @@ https://www.batch.tools/
 https://notebooklm.google.com/
 
 https://replicate.com/
+
+
+https://bark.day.app/#/
