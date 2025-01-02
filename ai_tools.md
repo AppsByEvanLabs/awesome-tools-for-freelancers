@@ -18,3 +18,6 @@ https://replicate.com/
 
 
 https://bark.day.app/#/
+
+
+https://team.doubao.com/en/special/seed-music
