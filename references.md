@@ -52,5 +52,18 @@ Here are the categorized GitHub repositories organized into smaller tables based
 |------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
 | software-architecture-resources                       | A curated list of resources related to software architecture principles and practices.                       | [domrost/software-architecture-resources](https://github.com/domrost/software-architecture-resources) |
 
+
+Here is the new category "JavaScript" with the specified repositories organized in a table format:
+
+## JavaScript Resources
+
+| **Repository**                                        | **Short Description**                                                                                       | **Link**                                                        |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| 33-js-concepts                                       | A collection of 33 JavaScript concepts every developer should know.                                        | [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) |
+| You-Dont-Know-JS                                     | A book series that dives deep into JavaScript, exploring its intricacies and nuances.                      | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) |
+| javascript                                           | A comprehensive JavaScript style guide maintained by Airbnb.                                              | [airbnb/javascript](https://github.com/airbnb/javascript)      |
+
+
+
 These tables categorize the provided GitHub repositories into relevant groups based on their focus areas while providing a brief description and direct links to each repository.
 
