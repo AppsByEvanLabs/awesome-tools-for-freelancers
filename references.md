@@ -1,118 +1,56 @@
-A list of repositoris on Github as good references
+Here are the categorized GitHub repositories organized into smaller tables based on their primary focus areas:
 
-https://github.com/steven2358/awesome-generative-ai
+## Generative AI Resources
 
-https://github.com/ai-collection/ai-collection?tab=readme-ov-file
+| **Repository**                                        | **Short Description**                                                                                       | **Link**                                                        |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| awesome-generative-ai                                 | A curated list of resources and tools related to generative AI.                                           | [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) |
+| ai-collection                                         | A collection of AI tools and resources for various applications.                                           | [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection?tab=readme-ov-file) |
+| awesome-generative-ai-guide                           | A comprehensive guide to generative AI with various resources and links.                                   | [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) |
+| awesome-generative-ai                                 | Another curated list focused on generative AI tools and resources.                                         | [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) |
+| Curated-List-of-Generative-AI-Tools                  | A curated list specifically for generative AI tools.                                                       | [ParthaPRay/Curated-List-of-Generative-AI-Tools](https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools) |
+| Top-AI-Tools                                         | A collection of top AI tools for various applications.                                                     | [ghimiresunil/Top-AI-Tools](https://github.com/ghimiresunil/Top-AI-Tools) |
+| awesome-ai-writing                                    | A repository dedicated to AI writing tools and resources.                                                  | [xaramore/awesome-ai-writing](https://github.com/xaramore/awesome-ai-writing) |
+| awesome-artificial-intelligence-tools                 | A curated list of artificial intelligence tools and resources.                                             | [TRA-Tech/awesome-artificial-intelligence-tools](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools) |
 
-https://github.com/aishwaryanr/awesome-generative-ai-guide
+## Android Development Resources
 
-https://github.com/filipecalegario/awesome-generative-ai
+| **Repository**                                        | **Short Description**                                                                                       | **Link**                                                        |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| awesome-android-learning-resources                    | A vast collection of resources, including code examples, tutorials, and articles for Android development.   | [androiddevnotes/awesome-android-learning-resources](https://github.com/androiddevnotes/awesome-android-learning-resources) |
+| awesome-android-kotlin-apps                           | A curated list of open-source Android apps built with Kotlin for learning purposes.                         | [androiddevnotes/awesome-android-kotlin-apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps) |
+| Android-Concepts-Reference-Kotlin                     | Focuses on core concepts of Android development in Kotlin without unnecessary complexity.                     | [DuartBreedt/Android-Concepts-Reference-Kotlin](https://github.com/DuartBreedt/Android-Concepts-Reference-Kotlin) |
+| Jetpack-Compose-Tutorials                             | Tutorials and examples for learning Jetpack Compose, the modern toolkit for building native UI in Android.  | [SmartToolFactory/Jetpack-Compose-Tutorials](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials) |
+| compose-samples                                       | Sample projects demonstrating the use of Jetpack Compose in Android applications.                           | [android/compose-samples](https://github.com/android/compose-samples/tree/main) |
 
-https://github.com/ParthaPRay/Curated-List-of-Generative-AI-Tools
+## Vue.js Resources
 
-https://github.com/ghimiresunil/Top-AI-Tools
+| **Repository**                                        | **Short Description**                                                                                       | **Link**                                                        |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| awesome-vue-3                                        | A curated list of resources and tools for Vue 3 development.                                              | [sonicoder86/awesome-vue-3](https://github.com/sonicoder86/awesome-vue-3) |
+| materio-vuetify-vuejs-admin-template-free            | An admin template built with Vue.js and Vuetify, available for free use.                                  | [themeselection/materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) |
+| vue-blog-netlify-template                             | A template for creating a blog using Vue.js and deploying it on Netlify.                                   | [cosmicjs/vue-blog-netlify-template](https://github.com/cosmicjs/vue-blog-netlify-template) |
 
+## Free Books and Learning Resources
 
-https://github.com/xaramore/awesome-ai-writing
+| **Repository**                                        | **Short Description**                                                                                       | **Link**                                                        |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| Cookbook                                             | A collection of recipes and guides for programming in various languages.                                    | [andkret/Cookbook](https://github.com/andkret/Cookbook)        |
+| Eloquent JavaScript                                   | An online book providing an introduction to JavaScript programming.                                          | [Eloquent JavaScript](https://eloquentjavascript.net/)          |
+| Pystatsml                                           | Resources and guides focused on statistics and machine learning in Python.                                  | [duchesnay/pystatsml](https://duchesnay.github.io/pystatsml/)  |
 
+## Kotlin Resources
 
-https://github.com/TRA-Tech/awesome-artificial-intelligence-tools
+| **Repository**                                        | **Short Description**                                                                                       | **Link**                                                        |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| Android Basics in Kotlin                              | Official Android course covering the basics of Android development using Kotlin.                            | [developer.android.com/courses/android-basics-kotlin/course](https://developer.android.com/courses/android-basics-kotlin/course) |
+| Kotlin Documentation                                   | Official documentation providing an overview of Kotlin programming language features and syntax.              | [kotlinlang.org/docs/android-overview.html](https://kotlinlang.org/docs/android-overview.html) |
 
+## Software Architecture Resources
 
-https://www.langflow.org/
+| **Repository**                                        | **Short Description**                                                                                       | **Link**                                                        |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| software-architecture-resources                       | A curated list of resources related to software architecture principles and practices.                       | [domrost/software-architecture-resources](https://github.com/domrost/software-architecture-resources) |
 
+These tables categorize the provided GitHub repositories into relevant groups based on their focus areas while providing a brief description and direct links to each repository.
 
-https://github.com/wandb/openui
-
-Top-Tier Repositories for Learning Android Development in Kotlin:
-
-1. Awesome Android Learning Resources:
-
-    This repository curates a vast collection of resources, including code examples, tutorials, and articles.
-   
-    Link: https://github.com/androiddevnotes/awesome-android-learning-resources
-
-3. Awesome Android Kotlin Apps:
-
-    A curated list of open-source Android apps built with Kotlin. Learn by studying real-world projects.
-   
-    Link: https://github.com/androiddevnotes/awesome-android-kotlin-apps
-
-5. Android-Concepts-Reference-Kotlin:
-
-    Focuses on the core concepts of Android development in Kotlin without unnecessary complexity.
-   
-    Link: https://github.com/DuartBreedt/Android-Concepts-Reference-Kotlin
-
-7. Android Jetpack Compose Examples:
-
-    A great starting point for learning Jetpack Compose, the modern toolkit for building native UI.
-   
-    Link: https://github.com/android/compose-samples
-
-Software architecture
-
-https://github.com/domrost/software-architecture-resources
-
-https://github.com/android/compose-samples/tree/main
-
-
-https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials
-
-https://github.com/hwangblood/Android-Programming-The-Big-Nerd-Ranch-Guide
-
-## Vue 3
-
-https://github.com/sonicoder86/awesome-vue-3
-
-https://dev.to/davidepacilio/20-awesome-websites-built-using-vue-js-1goo
-
-https://blog.logrocket.com/best-ui-frameworks-vue-3/
-
-https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free
-
-https://github.com/cosmicjs/vue-blog-netlify-template
-
-https://www.creative-tim.com/templates/vuejs-free?page=2
-
-## Free books
-
-https://gist.github.com/WebRTCGame/9fa80ed32a7413bd0f8d71304d6335eb
-
-https://eloquentjavascript.net/
-
-https://github.com/andkret/Cookbook
-
-https://duchesnay.github.io/pystatsml/
-
-## Kotlin
-
-
-https://developer.android.com/courses/android-basics-kotlin/course
-
-
-https://kotlinlang.org/docs/android-overview.html
-
-https://hyperskill.org/tracks/18
-
-https://kotlinlang.org/docs/basic-syntax.html#creating-classes-and-instances
-
-https://kotlinlang.org/docs/android-overview.html
-
-https://developer.android.com/courses/pathways/android-basics-kotlin-three#codelab-https://developer.android.com/codelabs/basic-android-kotlin-training-birthday-card-app
-
-https://www.chosic.com/free-music/birthday/
-
-https://codersguidebook.com/how-to-create-an-android-app/play-sounds-music-android-app
-
-Sending Text Messages Using Node.js and Twilio
-
-https://peeyushjss.medium.com/sending-text-messages-using-node-js-and-twilio-2fca6c8b30b2
-
-## fund raising
-
-https://acquire.com/
-
-appsumo
-
-https://www.producthunt.com/
