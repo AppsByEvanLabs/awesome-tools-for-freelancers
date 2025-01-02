@@ -43,20 +43,4 @@ Features:
 
 
 
-## Android development and Kotlin
-
-- Kotlin in Action by Dmitry Jemerov and Svetlana Isakova: A deep dive into the Kotlin language.
-
-Website, free ebook [Kotlin in Action, Second Edition](https://www.manning.com/books/kotlin-in-action-second-edition), [sample code on Github](https://github.com/Kotlin/kotlin-in-action-2e)
-
-- Android developer
-
-Website: [compose](https://developer.android.com/courses/android-basics-compose/course)
-
-
-## Web Scraping
-
-1. EasySpider, A visual browser automation test/data collection/crawler software, which can be used to design and execute tasks in a code-free visual way. 
-
-[Github Link](https://github.com/NaiboWang/EasySpider)
 
