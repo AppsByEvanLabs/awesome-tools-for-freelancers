@@ -23,13 +23,7 @@ Here are the categorized GitHub repositories organized into smaller tables based
 | Jetpack-Compose-Tutorials                             | Tutorials and examples for learning Jetpack Compose, the modern toolkit for building native UI in Android.  | [SmartToolFactory/Jetpack-Compose-Tutorials](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials) |
 | compose-samples                                       | Sample projects demonstrating the use of Jetpack Compose in Android applications.                           | [android/compose-samples](https://github.com/android/compose-samples/tree/main) |
 
-## Vue.js Resources
 
-| **Repository**                                        | **Short Description**                                                                                       | **Link**                                                        |
-|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
-| awesome-vue-3                                        | A curated list of resources and tools for Vue 3 development.                                              | [sonicoder86/awesome-vue-3](https://github.com/sonicoder86/awesome-vue-3) |
-| materio-vuetify-vuejs-admin-template-free            | An admin template built with Vue.js and Vuetify, available for free use.                                  | [themeselection/materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) |
-| vue-blog-netlify-template                             | A template for creating a blog using Vue.js and deploying it on Netlify.                                   | [cosmicjs/vue-blog-netlify-template](https://github.com/cosmicjs/vue-blog-netlify-template) |
 
 ## Free Books and Learning Resources
 
@@ -55,13 +49,6 @@ Here are the categorized GitHub repositories organized into smaller tables based
 
 Here is the new category "JavaScript" with the specified repositories organized in a table format:
 
-## JavaScript Resources
-
-| **Repository**                                        | **Short Description**                                                                                       | **Link**                                                        |
-|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
-| 33-js-concepts                                       | A collection of 33 JavaScript concepts every developer should know.                                        | [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) |
-| You-Dont-Know-JS                                     | A book series that dives deep into JavaScript, exploring its intricacies and nuances.                      | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) |
-| javascript                                           | A comprehensive JavaScript style guide maintained by Airbnb.                                              | [airbnb/javascript](https://github.com/airbnb/javascript)      |
 
 Here is the new category "Web Scraping" with the specified repositories organized in a table format:
 
