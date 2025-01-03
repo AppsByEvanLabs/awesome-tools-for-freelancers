@@ -14,7 +14,7 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
 | Ideogram    | Ideogram focuses on creating and sharing visual content, allowing users to generate unique designs and illustrations through AI tools. | [Ideogram](https://ideogram.ai) |
 | Magnific    | Magnific.ai offers AI-powered image upscaling and enhancement, allowing users to transform images into high-resolution versions with added details, suitable for photographers and digital artists. | [Magnific.ai](https://magnific.ai/) |
 | Collov      | Collov.ai is a collaborative design platform that integrates AI tools to enhance teamwork in creating visual content, making it easier for teams to work together on design projects. | [Collov.ai](https://collov.ai/) |
-| Replicate   | Replicate.com facilitates the deployment of machine learning models, enabling developers to run and share models easily in the cloud without extensive setup. | [Replicate.com](https://replicate.com/) |
+| Replicate   | Replicate facilitates the deployment of machine learning models, enabling developers to run and share models easily in the cloud without extensive setup. | [Replicate.com](https://replicate.com/) |
 
 ## Video Generation Tools
 
