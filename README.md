@@ -12,9 +12,7 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
 | **Website** | **Short Introduction** | **Link/GitHub Repo** |
 |-------------|------------------------|-----------------------|
 | Ideogram    | Ideogram focuses on creating and sharing visual content, allowing users to generate unique designs and illustrations through AI tools. | [Ideogram](https://ideogram.ai) |
-| Krea        | Krea.ai is a creative AI tool that assists users in generating artistic content, leveraging advanced algorithms to inspire and enhance artistic expression. | [Krea.ai](https://www.krea.ai/home) |
 | Magnific    | Magnific.ai offers AI-powered image upscaling and enhancement, allowing users to transform images into high-resolution versions with added details, suitable for photographers and digital artists. | [Magnific.ai](https://magnific.ai/) |
-| MiniMax    | Minimaxi provides tools for minimalist design creation, focusing on simplicity and elegance in visual content production. | [Minimaxi.com](https://www.minimaxi.com/en) |
 | Collov      | Collov.ai is a collaborative design platform that integrates AI tools to enhance teamwork in creating visual content, making it easier for teams to work together on design projects. | [Collov.ai](https://collov.ai/) |
 | Replicate   | Replicate.com facilitates the deployment of machine learning models, enabling developers to run and share models easily in the cloud without extensive setup. | [Replicate.com](https://replicate.com/) |
 
