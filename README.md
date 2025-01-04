@@ -13,7 +13,8 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
 |-------------|------------------------|-----------------------|
 | Ideogram    | Ideogram focuses on creating and sharing visual content, allowing users to generate unique designs and illustrations through AI tools. | [Ideogram](https://ideogram.ai) |
 | Magnific    | Magnific.ai offers AI-powered image upscaling and enhancement, allowing users to transform images into high-resolution versions with added details, suitable for photographers and digital artists. | [Magnific.ai](https://magnific.ai/) |
-| Collov      | Collov.ai is a collaborative design platform that integrates AI tools to enhance teamwork in creating visual content, making it easier for teams to work together on design projects. | [Collov.ai](https://collov.ai/) |
+| Clipdrop     | Clipdrop offers tools for capturing and editing images using augmented reality technology, making it easier for users to create high-quality visuals quickly.  | [Clipdrop.co](https://clipdrop.co/)  |
+
 
 ## Video Generation Tools
 
@@ -35,7 +36,7 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
 
 | **Website** | **Short Introduction** | **Link/GitHub Repo** |
 |-------------|------------------------|-----------------------|
-| Seed Music  | Doubao offers a platform for generating music using AI, allowing users to create unique soundscapes or compositions tailored to their preferences. | [Doubao.com](https://team.doubao.com/en/special/seed-music) |
+| Seed Music  | Doubao offers a platform for generating music using AI, allowing users to create unique soundscapes or compositions tailored to their preferences. | [Seed Music](https://team.doubao.com/en/special/seed-music) |
 
 ## Data Visualization Tools
 
@@ -50,8 +51,7 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
 | **Website**  | **Short Introduction**  | **Link/GitHub Repo**  |
 |--------------|-------------------------|------------------------|
 | Convertio    | Convertio is a versatile online file converter supporting over 300 formats, enabling users to convert files quickly and securely without consuming local resources.  | [Convertio.co](https://convertio.co/)  |
-| Clipdrop     | Clipdrop offers tools for capturing and editing images using augmented reality technology, making it easier for users to create high-quality visuals quickly.  | [Clipdrop.co](https://clipdrop.co/)  |
-
+| Collov      | Collov.ai is a collaborative design platform that integrates AI tools to enhance teamwork in creating visual content, Internal Design | [Collov.ai](https://collov.ai/) |
 
 
 
