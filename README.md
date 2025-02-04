@@ -43,7 +43,7 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
 | **Website** | **Short Introduction** | **Link/GitHub Repo** |
 |-------------|------------------------|-----------------------|
 | Flourish    | Flourish is a platform designed for creating interactive data visualizations easily, empowering users to present data insights effectively through customizable templates and tools. | [Flourish.studio](https://flourish.studio/) |
-| Napkin      | Napkin is a collaborative platform that enables teams to brainstorm and visualize ideas together in real-time, enhancing creative processes. | [Napkin](https://napkin.com) |
+| Napkin      | Napkin is a collaborative platform that enables teams to brainstorm and visualize ideas together in real-time, enhancing creative processes. | [Napkin](https://www.napkin.ai/) |
 
 
 ## File Conversion and Processing Tools
