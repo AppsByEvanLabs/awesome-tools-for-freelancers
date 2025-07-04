@@ -1,9 +1,8 @@
-https://github.com/kijai/ComfyUI-HunyuanVideoWrapper, ComfyUI wrapper nodes for HunyuanVideo
-
-| Project / Link                                                                                      | Description                                                                                                      |
-|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| [smthemex/ComfyUI_EchoMimic](https://github.com/smthemex/ComfyUI_EchoMimic)                         | You can use EchoMimic in ComfyUI.                                                                                |
-| [heshengtao/comfyui_LLM_party](https://github.com/heshengtao/comfyui_LLM_party)                     | LLM Agent Framework in ComfyUI: includes MCP server, Omost, GPT-sovits, ChatTTS, GOT-OCR2.0, FLUX prompt nodes, Feishu/Discord access, and adapts to all OpenAI/aisuite-like LLMs. |
-| [602387193c/ComfyUI-wiki](https://github.com/602387193c/ComfyUI-wiki)                               | Everything about ComfyUI: workflow/resource/knowledge/tutorial sharing, and more.                                |
-| [YanWenKun/ComfyUI-Docker](https://github.com/YanWenKun/ComfyUI-Docker)                             | Dockerfile and container scripts for ComfyUI.                                                                   |
-| [ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)           | My ComfyUI workflows collection.                                                                                 |
+| Project / Link                                                                                          | Description                                                                                                      |
+|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| [smthemex/ComfyUI_EchoMimic](https://github.com/smthemex/ComfyUI_EchoMimic)                             | Use EchoMimic in ComfyUI for voice cloning and synthesis.                                                        |
+| [heshengtao/comfyui_LLM_party](https://github.com/heshengtao/comfyui_LLM_party)                         | LLM Agent Framework in ComfyUI: includes MCP server, Omost, GPT-sovits, ChatTTS, GOT-OCR2.0, FLUX prompt nodes, Feishu/Discord access, and adapts to all OpenAI/aisuite-like LLMs. |
+| [602387193c/ComfyUI-wiki](https://github.com/602387193c/ComfyUI-wiki)                                   | Everything about ComfyUI: workflow/resource/knowledge/tutorial sharing, and more.                                |
+| [YanWenKun/ComfyUI-Docker](https://github.com/YanWenKun/ComfyUI-Docker)                                 | Dockerfile and container scripts for ComfyUI.                                                                   |
+| [ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)               | My ComfyUI workflows collection.                                                                                 |
+| [kijai/ComfyUI-HunyuanVideoWrapper](https://github.com/kijai/ComfyUI-HunyuanVideoWrapper)               | ComfyUI wrapper nodes for HunyuanVideo: enables advanced video generation, I2V, LoRA support, and more.          |
