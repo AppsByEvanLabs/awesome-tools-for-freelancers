@@ -12,6 +12,8 @@ https://github.com/FlowiseAI/Flowise, Build AI Agents, Visually
 
 https://github.com/pydantic/pydantic-ai, Agent Framework / shim to use Pydantic with LLMs 
 
+https://github.com/BrainBlend-AI/atomic-agents, Building AI agents, atomically 
+
 ### AI agents
 
 | **Website**      | **Short Introduction**                                                                                                                                                                                                                      | **Link/GitHub Repo**                       |
