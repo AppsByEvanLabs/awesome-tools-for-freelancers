@@ -2,6 +2,8 @@ https://github.com/n8n-io/n8n, Fair-code workflow automation platform with nativ
 
 https://github.com/SciPhi-AI/R2R, SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API. 
 
+https://github.com/deepset-ai/haystack, AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots. 
+
 | Project / Link                                                                                 | Description                                                                                                                      |
 |-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
 | [langgenius/dify](https://github.com/langgenius/dify)                                         | Production-ready platform for agentic workflow development.                                                                      |
