@@ -3,3 +3,5 @@ https://github.com/TA-Lib/ta-lib-python, Python wrapper for TA-Lib (http://ta-li
 https://github.com/quantopian/pyfolio, Portfolio and risk analytics in Python 
 
 https://github.com/ScottfreeLLC/AlphaPy, Python AutoML for Trading Systems and Sports Betting 
+
+https://github.com/virattt/ai-hedge-fund,  An AI Hedge Fund Team 
