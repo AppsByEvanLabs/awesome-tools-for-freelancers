@@ -10,6 +10,8 @@ https://github.com/agno-agi/agno,  Full-stack framework for building Multi-Agent
 
 https://github.com/FlowiseAI/Flowise, Build AI Agents, Visually 
 
+https://github.com/pydantic/pydantic-ai, Agent Framework / shim to use Pydantic with LLMs 
+
 ### AI agents
 
 | **Website**      | **Short Introduction**                                                                                                                                                                                                                      | **Link/GitHub Repo**                       |
