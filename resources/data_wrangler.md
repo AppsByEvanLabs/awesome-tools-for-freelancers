@@ -3,3 +3,5 @@ https://github.com/opendatalab/MinerU, A high-quality tool for convert PDF to Ma
 https://github.com/docling-project/docling,  Get your documents ready for gen AI 
 
 https://github.com/microsoft/markitdown, Python tool for converting files and office documents to Markdown. 
+
+https://github.com/unclecode/crawl4ai, Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. 
