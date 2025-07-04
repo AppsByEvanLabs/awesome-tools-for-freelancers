@@ -1,5 +1,7 @@
 https://github.com/n8n-io/n8n, Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 
 
+https://github.com/SciPhi-AI/R2R, SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API. 
+
 | Project / Link                                                                                 | Description                                                                                                                      |
 |-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
 | [langgenius/dify](https://github.com/langgenius/dify)                                         | Production-ready platform for agentic workflow development.                                                                      |
