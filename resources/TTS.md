@@ -4,6 +4,10 @@ https://github.com/KoljaB/RealtimeSTT, A robust, efficient, low-latency speech-t
 
 https://github.com/myshell-ai/OpenVoice, Instant voice cloning by MIT and MyShell. Audio foundation model. 
 
+https://github.com/rsxdalv/TTS-WebUI, A single Gradio + React WebUI with extensions for ACE-Step, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, MusicGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, and Bark! 
+
+https://github.com/SWivid/F5-TTS, Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching" 
+
 ## Audio TTS Tools
 
 
