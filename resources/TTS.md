@@ -1,5 +1,6 @@
 https://github.com/stepfun-ai/Step-Audio, Step-Audio is the first production-ready open-source framework for intelligent speech interaction 
 
+https://github.com/KoljaB/RealtimeSTT, A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription. 
 
 
 ## Audio TTS Tools
