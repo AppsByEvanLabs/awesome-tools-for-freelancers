@@ -1,22 +1,12 @@
-https://github.com/FoundationAgents/MetaGPT, The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming 
-
-https://github.com/ComposioHQ/composio, Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling 
-
-https://github.com/FoundationAgents/OpenManus, No fortress, purely open ground. OpenManus is Coming. 
-
-https://github.com/openai/swarm, Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team. 
-
-https://github.com/agno-agi/agno,  Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning. 
-
-https://github.com/FlowiseAI/Flowise, Build AI Agents, Visually 
-
-https://github.com/pydantic/pydantic-ai, Agent Framework / shim to use Pydantic with LLMs 
-
-https://github.com/BrainBlend-AI/atomic-agents, Building AI agents, atomically 
-
-### AI agents
-
-| **Website**      | **Short Introduction**                                                                                                                                                                                                                      | **Link/GitHub Repo**                       |
-|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
-| Micro Agent      | Micro Agent is an AI tool designed to assist users in automating repetitive tasks, enhancing productivity through intelligent automation solutions tailored for various business applications.                                                      | [Micro Agent](https://microagent.com/)     |
-| Replit           | Replit is an online coding platform that provides an integrated development environment (IDE) for collaborative coding, allowing users to write, run, and share code in various programming languages seamlessly.                                | [Replit](https://replit.com/)              |
+| **Project / Website**                          | **Short Introduction**                                                                                                               | **Link/GitHub Repo**                                     |
+|------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
+| MetaGPT                                        | The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming.                                          | [MetaGPT](https://github.com/FoundationAgents/MetaGPT)   |
+| Composio                                       | Equips your AI agents & LLMs with 100+ high-quality integrations via function calling.                                               | [Composio](https://github.com/ComposioHQ/composio)       |
+| OpenManus                                      | No fortress, purely open ground. OpenManus is Coming.                                                                               | [OpenManus](https://github.com/FoundationAgents/OpenManus)|
+| Swarm                                          | Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.                   | [Swarm](https://github.com/openai/swarm)                 |
+| agno                                           | Full-stack framework for building Multi-Agent Systems with memory, knowledge, and reasoning.                                         | [agno](https://github.com/agno-agi/agno)                 |
+| Flowise                                        | Build AI Agents, Visually.                                                                                                          | [Flowise](https://github.com/FlowiseAI/Flowise)          |
+| pydantic-ai                                    | Agent Framework / shim to use Pydantic with LLMs.                                                                                   | [pydantic-ai](https://github.com/pydantic/pydantic-ai)   |
+| atomic-agents                                  | Building AI agents, atomically.                                                                                                     | [atomic-agents](https://github.com/BrainBlend-AI/atomic-agents) |
+| Micro Agent                                    | AI tool to assist users in automating repetitive tasks, enhancing productivity through intelligent automation for business.          | [Micro Agent](https://microagent.com/)                   |
+| Replit                                         | Online coding platform with an IDE for collaborative coding, supporting many languages.                                              | [Replit](https://replit.com/)                            |
