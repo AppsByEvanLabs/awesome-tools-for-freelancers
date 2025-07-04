@@ -11,19 +11,9 @@ Here are the categorized tables with links or GitHub repositories for each tool:
 | Replicate   | Replicate facilitates the deployment of machine learning models, enabling developers to run and share models easily in the cloud without extensive setup. | [Replicate.com](https://replicate.com/) |
 
 
-### AI agents
-
-| **Website**      | **Short Introduction**                                                                                                                                                                                                                      | **Link/GitHub Repo**                       |
-|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
-| Micro Agent      | Micro Agent is an AI tool designed to assist users in automating repetitive tasks, enhancing productivity through intelligent automation solutions tailored for various business applications.                                                      | [Micro Agent](https://microagent.com/)     |
-| Replit           | Replit is an online coding platform that provides an integrated development environment (IDE) for collaborative coding, allowing users to write, run, and share code in various programming languages seamlessly.                                | [Replit](https://replit.com/)              |
 
 
-## OCR tools
 
-| **Website**      | **Short Introduction**                                                                                                                                                                                                                      | **Link/GitHub Repo**                       |
-|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
-| VikParuchuri /Surya     | Surya offers advanced OCR capabilities, including layout analysis, reading order, and table recognition in over 90 languages, making it suitable for diverse document processing needs.                                               | [Surya](https://github.com/VikParuchuri/surya) |
-| hiroi-sora / Umi-OCR | Umi-OCR is a free and offline OCR software that supports screenshot capture, batch image import, and PDF document recognition. It effectively removes watermarks and recognizes multiple languages, providing a flexible and efficient solution for text extraction. | [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) |
+
 
 
