@@ -8,6 +8,8 @@ https://github.com/openai/swarm, Educational framework exploring ergonomic, ligh
 
 https://github.com/agno-agi/agno,  Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning. 
 
+https://github.com/FlowiseAI/Flowise, Build AI Agents, Visually 
+
 ### AI agents
 
 | **Website**      | **Short Introduction**                                                                                                                                                                                                                      | **Link/GitHub Repo**                       |
