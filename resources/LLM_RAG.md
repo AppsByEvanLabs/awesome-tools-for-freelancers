@@ -1,9 +1,3 @@
-https://github.com/n8n-io/n8n, Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 
-
-https://github.com/SciPhi-AI/R2R, SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API. 
-
-https://github.com/deepset-ai/haystack, AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots. 
-
 | Project / Link                                                                                 | Description                                                                                                                      |
 |-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
 | [langgenius/dify](https://github.com/langgenius/dify)                                         | Production-ready platform for agentic workflow development.                                                                      |
@@ -18,3 +12,6 @@ https://github.com/deepset-ai/haystack, AI orchestration framework to build cust
 | [antiwork/shortest](https://github.com/antiwork/shortest)                                     | QA via natural language AI tests.                                                                                               |
 | [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)                           | Open-source AI-powered software development platform that automates various aspects of the software engineering process.         |
 | [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter)        | Open-source project enabling natural language commands to control your computer and run code using large language models.        |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n)                                                   | Fair-code workflow automation platform with native AI capabilities. Visual building, custom code, self-host/cloud, 400+ integrations.[1][3][4] |
+| [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)                                             | SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API, multimodal ingestion, hybrid search, and knowledge graphs.[2] |
+| [deepset-ai/haystack](https://github.com/deepset-ai/haystack)                                 | AI orchestration framework for customizable, production-ready LLM applications. Advanced retrieval, RAG, QA, semantic search, and conversational agents. |
