@@ -2,6 +2,7 @@ https://github.com/stepfun-ai/Step-Audio, Step-Audio is the first production-rea
 
 https://github.com/KoljaB/RealtimeSTT, A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription. 
 
+https://github.com/myshell-ai/OpenVoice, Instant voice cloning by MIT and MyShell. Audio foundation model. 
 
 ## Audio TTS Tools
 
