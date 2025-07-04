@@ -1,3 +1,5 @@
+https://github.com/kijai/ComfyUI-HunyuanVideoWrapper, ComfyUI wrapper nodes for HunyuanVideo
+
 | Project / Link                                                                                      | Description                                                                                                      |
 |-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | [smthemex/ComfyUI_EchoMimic](https://github.com/smthemex/ComfyUI_EchoMimic)                         | You can use EchoMimic in ComfyUI.                                                                                |
