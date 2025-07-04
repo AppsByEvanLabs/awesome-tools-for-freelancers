@@ -1,13 +1,9 @@
-https://github.com/TA-Lib/ta-lib-python, Python wrapper for TA-Lib (http://ta-lib.org/). 
-
-https://github.com/quantopian/pyfolio, Portfolio and risk analytics in Python 
-
-https://github.com/ScottfreeLLC/AlphaPy, Python AutoML for Trading Systems and Sports Betting 
-
-https://github.com/virattt/ai-hedge-fund,  An AI Hedge Fund Team 
-
-https://github.com/shashankvemuri/Finance,  150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data 
-
-https://github.com/sec-edgar/sec-edgar, Download all companies periodic reports, filings and forms from EDGAR database. 
-
-https://github.com/bukosabino/ta, Technical Analysis Library using Pandas and Numpy 
+| Project / Link                                                        | Description                                                                                                                      |
+|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python)       | Python wrapper for TA-Lib: 150+ technical analysis indicators, candlestick patterns, efficient Cython/Numpy bindings.            |
+| [quantopian/pyfolio](https://github.com/quantopian/pyfolio)           | Portfolio and risk analytics in Python.                                                                                          |
+| [ScottfreeLLC/AlphaPy](https://github.com/ScottfreeLLC/AlphaPy)       | Python AutoML for Trading Systems and Sports Betting.                                                                            |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)     | An AI Hedge Fund Team.                                                                                                           |
+| [shashankvemuri/Finance](https://github.com/shashankvemuri/Finance)   | 150+ quantitative finance Python programs for gathering, manipulating, and analyzing stock market data.                          |
+| [sec-edgar/sec-edgar](https://github.com/sec-edgar/sec-edgar)         | Download all companies' periodic reports, filings, and forms from the EDGAR database.                                            |
+| [bukosabino/ta](https://github.com/bukosabino/ta)                     | Technical Analysis Library using Pandas and Numpy.                                                                               |
