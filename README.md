@@ -51,7 +51,7 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
 | **Website**  | **Short Introduction**  | **Link/GitHub Repo**  |
 |--------------|-------------------------|------------------------|
 | Convertio    | Convertio is a versatile online file converter supporting over 300 formats, enabling users to convert files quickly and securely without consuming local resources.  | [Convertio.co](https://convertio.co/)  |
-| Collov      | Collov.ai is a collaborative design platform that integrates AI tools to enhance teamwork in creating visual content, Internal Design | [Collov.ai](https://collov.ai/) |
+
 
 
 
