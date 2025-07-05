@@ -1,4 +1,10 @@
 Here are the categorized tables with links or GitHub repositories for each tool:
+
+https://raphaelai.org/,  AI Image Generator
+
+Create unlimited AI-generated images online instantly - 100% free, no sign-up 
+
+https://shots.so/, AI-powered platform that enables users to instantly create stunning, professional-quality screenshots and mockups for apps, websites, and digital products.
                                            
 
 ## Misc AI Tools
