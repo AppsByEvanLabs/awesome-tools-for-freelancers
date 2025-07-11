@@ -1,3 +1,5 @@
+https://github.com/Yuliang-Liu/MonkeyOCR,  A lightweight LMM-based Document Parsing Model 
+
 https://github.com/ocrmypdf/OCRmyPDF,  OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched 
 
 | **Website**                              | **Short Introduction**                                                                                                                                                                                                                                                                                                                                                                                                                         | **Link/GitHub Repo**                                  |
