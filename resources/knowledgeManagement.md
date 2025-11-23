@@ -6,3 +6,6 @@ https://github.com/TriliumNext/Trilium
 
 TidGi
 https://github.com/tiddly-gittly/TidGi-Desktop
+
+Reor Project
+https://github.com/reorproject/reor
