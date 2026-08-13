@@ -36,7 +36,7 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
 
 | **Website** | **Short Introduction** | **Link/GitHub Repo** |
 |-------------|------------------------|-----------------------|
-| Seed Music  | Doubao offers a platform for generating music using AI, allowing users to create unique soundscapes or compositions tailored to their preferences. | [Seed Music](https://team.doubao.com/en/special/seed-music) |
+| Seed Music  | Doubao offers a platform for generating music, allowing users to create unique soundscapes or compositions tailored to their preferences. | [Seed Music](https://team.doubao.com/en/special/seed-music) |
 
 ## Data Visualization Tools
 
@@ -53,7 +53,10 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
 | Convertio    | Convertio is a versatile online file converter supporting over 300 formats, enabling users to convert files quickly and securely without consuming local resources.  | [Convertio.co](https://convertio.co/)  |
 
 
+## Project Scoping and Pricing Tools
 
-
+| **Website** | **Short Introduction** | **Link/GitHub Repo** |
+|-------------|------------------------|-----------------------|
+| QuoteBoundary | QuoteBoundary is a free browser toolkit for freelancers and small studios to scope projects, prepare clearer quotes, and document change requests without creating an account or uploading project files. | [QuoteBoundary](https://quoteboundary.evanguy.chatgpt.site/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_freelance_tools&utm_content=project_scoping) |
 
 
