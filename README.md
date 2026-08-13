@@ -36,7 +36,7 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
 
 | **Website** | **Short Introduction** | **Link/GitHub Repo** |
 |-------------|------------------------|-----------------------|
-| Seed Music  | Doubao offers a platform for generating music, allowing users to create unique soundscapes or compositions tailored to their preferences. | [Seed Music](https://team.doubao.com/en/special/seed-music) |
+| Seed Music  | Doubao offers a platform for generating music using AI, allowing users to create unique soundscapes or compositions tailored to their preferences. | [Seed Music](https://team.doubao.com/en/special/seed-music) |
 
 ## Data Visualization Tools
 
